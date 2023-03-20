@@ -39,7 +39,7 @@ I'm not a people pleaser, and I'm pretty opinionated based on my years of experi
 </br>
 
 ```python
-class About:
+class AnalisaCN:
     def __init__(self):
         self.full_name = "Analisa Carbone"
         self.languages = ["English", "Spanish", "Italian", "French"]
@@ -60,5 +60,5 @@ class About:
 
 
 if __name__ == "__main__":
-    me = About()
+    me = AnalisaCN()
 ```
