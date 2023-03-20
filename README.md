@@ -8,7 +8,7 @@ Hi, I'm Analisa Carbone
 
 
 <samp width="65%">
-I am a computer scientist with more than 11 years of experience as a software developer. I mainly work on the development and improvement of tech products  at the backend side. I'm currently working as Senior Python Developer and Squad Lead in a fintech, building the API for a finance product.
+I am a good practitioner of the "disagree and commit" principle. That being said, I'm not a people pleaser, and I'm pretty opinionated based on my years of experience and hard-learned lessons. I enjoy sharing my insights and past mistakes with others to prevent them from making the same errors, but I avoid going down the rabbit hole. Everyone is free to make their own choices and their own mistakes, as long as it doesn't mean I have to deal with the consequences.
 </br>
 </br>
 I'm not a people pleaser, and I'm pretty opinionated based on my years of experience and hard-learned lessons. I enjoy sharing my insights and past mistakes with others to prevent them from making the same errors, but I avoid going down the rabbit hole, everyone is free to make their own choices and their own mistakes as long as that doesn't mean I have to deal with the consequences.
